@@ -73,7 +73,7 @@ The system performs multiple movements (Forward, Backward, Left, Right), display
 ---
 
 ## 📷 Project Preview
-<img width="800" height="485" alt="image" src="https://github.com/user-attachments/assets/af385969-13f0-4926-97c5-0c22138d25ce" />
+<img width="811" height="499" alt="image" src="https://github.com/user-attachments/assets/51cbde6d-c38d-465d-8335-591886383116" />
 
 ---
 
