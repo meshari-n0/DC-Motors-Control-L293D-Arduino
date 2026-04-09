@@ -39,7 +39,7 @@ The system performs multiple movements (Forward, Backward, Left, Right), display
 
 ### 🔹 Power
 - Pin 16 → 5V  
-- Pin 8 → 5V (or 9V battery)  
+- Pin 8 → 9V battery 
 - GND → Arduino GND  
 
 ---
@@ -69,9 +69,6 @@ The system performs multiple movements (Forward, Backward, Left, Right), display
 - Turning Left
 - Turning Right
 - Stopped
-
----
-
 
 ---
 
